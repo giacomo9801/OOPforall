@@ -1,0 +1,15 @@
+C:\Users\giaco\csharp\c#bank\bin\Debug\net6.0\c#bank.exe
+C:\Users\giaco\csharp\c#bank\bin\Debug\net6.0\c#bank.deps.json
+C:\Users\giaco\csharp\c#bank\bin\Debug\net6.0\c#bank.runtimeconfig.json
+C:\Users\giaco\csharp\c#bank\bin\Debug\net6.0\c#bank.dll
+C:\Users\giaco\csharp\c#bank\bin\Debug\net6.0\c#bank.pdb
+C:\Users\giaco\csharp\c#bank\obj\Debug\net6.0\c#bank.csproj.AssemblyReference.cache
+C:\Users\giaco\csharp\c#bank\obj\Debug\net6.0\c#bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giaco\csharp\c#bank\obj\Debug\net6.0\c#bank.AssemblyInfoInputs.cache
+C:\Users\giaco\csharp\c#bank\obj\Debug\net6.0\c#bank.AssemblyInfo.cs
+C:\Users\giaco\csharp\c#bank\obj\Debug\net6.0\c#bank.csproj.CoreCompileInputs.cache
+C:\Users\giaco\csharp\c#bank\obj\Debug\net6.0\c#bank.dll
+C:\Users\giaco\csharp\c#bank\obj\Debug\net6.0\refint\c#bank.dll
+C:\Users\giaco\csharp\c#bank\obj\Debug\net6.0\c#bank.pdb
+C:\Users\giaco\csharp\c#bank\obj\Debug\net6.0\c#bank.genruntimeconfig.cache
+C:\Users\giaco\csharp\c#bank\obj\Debug\net6.0\ref\c#bank.dll
