@@ -1,0 +1,15 @@
+C:\Users\giaco\csharp\Nicolas Canuto\libri\bin\Debug\net6.0\libri.exe
+C:\Users\giaco\csharp\Nicolas Canuto\libri\bin\Debug\net6.0\libri.deps.json
+C:\Users\giaco\csharp\Nicolas Canuto\libri\bin\Debug\net6.0\libri.runtimeconfig.json
+C:\Users\giaco\csharp\Nicolas Canuto\libri\bin\Debug\net6.0\libri.dll
+C:\Users\giaco\csharp\Nicolas Canuto\libri\bin\Debug\net6.0\libri.pdb
+C:\Users\giaco\csharp\Nicolas Canuto\libri\obj\Debug\net6.0\libri.csproj.AssemblyReference.cache
+C:\Users\giaco\csharp\Nicolas Canuto\libri\obj\Debug\net6.0\libri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giaco\csharp\Nicolas Canuto\libri\obj\Debug\net6.0\libri.AssemblyInfoInputs.cache
+C:\Users\giaco\csharp\Nicolas Canuto\libri\obj\Debug\net6.0\libri.AssemblyInfo.cs
+C:\Users\giaco\csharp\Nicolas Canuto\libri\obj\Debug\net6.0\libri.csproj.CoreCompileInputs.cache
+C:\Users\giaco\csharp\Nicolas Canuto\libri\obj\Debug\net6.0\libri.dll
+C:\Users\giaco\csharp\Nicolas Canuto\libri\obj\Debug\net6.0\refint\libri.dll
+C:\Users\giaco\csharp\Nicolas Canuto\libri\obj\Debug\net6.0\libri.pdb
+C:\Users\giaco\csharp\Nicolas Canuto\libri\obj\Debug\net6.0\libri.genruntimeconfig.cache
+C:\Users\giaco\csharp\Nicolas Canuto\libri\obj\Debug\net6.0\ref\libri.dll
